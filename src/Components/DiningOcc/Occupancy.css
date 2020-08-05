@@ -1,0 +1,6 @@
+html, .image {
+    background-image: url(../../Pictures/dhall.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
